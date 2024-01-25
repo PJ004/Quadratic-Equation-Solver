@@ -1,0 +1,18 @@
+body {
+    color:burlywood;
+    background:rgb(48, 47, 45);
+}
+
+h1 {
+    color:rgb(128, 87, 34);
+}
+
+p {
+    color:burlywood;
+}
+
+button {
+    background-color: burlywood;
+    color: rgb(48, 47, 45);
+    border: 1cm;
+}
