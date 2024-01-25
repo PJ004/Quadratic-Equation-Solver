@@ -5,12 +5,20 @@ This is a simple website that I built with HTML/CSS and Javascript to teach myse
 
 This website is available for use on http://anonymousjguy.rf.gd
 
-If you feel apprehensive about going to an insecure website you could just download the source code and run it locally
+If you feel apprehensive about going to an insecure website you could just download the repository and run it locally
 Since this is just a simple website, it can be opened in your web browser.
 
 ## Cloning the repository
 
-### Linux/MacOS
+### Using a zip file
+If you're not comfortable using a command line interface, please use this method to download the repository.
+
+On the right hand corner of this page, where there is a green button that reads `<> Code`, click on the drop down menu and select `Download ZIP`.
+Unzip the file and click on `index.html`. The file should automatically load up in a web browser.
+
+### CLI
+
+#### On Linux/Mac OS
 Type this command in the terminal
 
 `git clone https://github.com/PJ004/Quadratic-Equation-Solver`
