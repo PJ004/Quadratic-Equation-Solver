@@ -1,4 +1,5 @@
 # Quadratic Equation Solver
+![Image](https://github.com/PJ004/Quadratic-Equation-Solver/assets/123962697/0be5aefa-ffc6-46ba-b775-c8158a719700)
 
 ## About this project
 This is a simple website that I built with HTML/CSS and Javascript to teach myself how to use Javascript
